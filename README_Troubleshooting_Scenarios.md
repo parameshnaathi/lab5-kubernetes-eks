@@ -1,4 +1,4 @@
-# Lab 10 - Kubernetes Production Troubleshooting Scenarios
+# Lab 6 - Kubernetes Production Troubleshooting Scenarios
 
 ## Prerequisite
 
